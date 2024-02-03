@@ -19,6 +19,7 @@ My everforest theme collection for various tools. Most are everforest dark soft.
       - [obsidian-everforest](https://github.com/0xGlitchbyte/obsidian_everforest).
       - [everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)
    2. If you use [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus), which I highly recommend for vimer, you can use my `everforest.css` in the `obsidian` folder.
+8. Github: you can use [refined-github](https://github.com/refined-github/refined-github), and put the css in the `css` in the 'refined-github' folder to the Custom CSS option in refined-github.
 
 ## Contributing
 

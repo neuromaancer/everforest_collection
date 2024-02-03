@@ -1,0 +1,81 @@
+:root {
+  /* Colors */
+  --bg0: #323d43; /*Light bg*/
+  --bg1: #2f383e; /*Main bg*/
+  --bg2: #2b3339; /*Dark bg*/
+  --fg0: #d3c6aa; /*Main fg*/
+  --fg1: #859289; /*Darker fg*/
+
+  --red: #e67e80;
+  --orange: #e69875;
+  --yellow: #dbbc7f;
+  --green: #a7c080;
+  --aqua: #83c092;
+  --blue: #7fbbb3;
+  --purple: #d699b6;
+
+  /* -- Main page -- */
+
+  /* Background */
+  --color-canvas-default: var(--bg1) !important;
+  --color-page-header-bg: var(--bg2) !important;
+  --color-canvas-subtle: var(--bg0) !important;
+  --color-header-bg: var(--bg2) !important;
+  --color-neutral-muted: var(--bg2) !important;
+  --color-canvas-inset: var(--bg2) !important;
+  --color-btn-primary-hover-bg: var(--aqua) !important;
+  --color-btn-primary-bg: var(--purple) !important;
+  --color-btn-primary-focus-bg: var(--color-btn-primary-hover-bg) !important;
+  --color-attention-emphasis: var(--yellow) !important;
+  --color-success-emphasis: var(--green) !important;
+  --color-accent-subtle: var(--bg0) !important;
+  --color-codemirror-bg: var(--bg2) !important;
+  --color-codemirror-lines-bg: var(--bg2) !important;
+  --color-codemirror-gutters-bg: var(--bg2) !important;
+  --color-accent-emphasis: var(--yellow) !important;
+  --color-canvas-overlay: var(--bg0) !important;
+  --color-btn-bg: var(--bg2) !important;
+  --color-btn-hover-bg: var(--bg0) !important;
+  --color-open-emphasis: var(--green) !important;
+  --color-danger-emphasis: var(--red) !important;
+  --color-diffstat-addition-bg: var(--green) !important;
+  --color-btn-danger-hover-bg: var(--red) !important;
+  --color-attention-muted: var(--yellow) !important;
+
+  /* Foreground */
+  --color-success-fg: var(--green) !important;
+  --color-codemirror-text: var(--fg0) !important;
+  --color-fg-default: var(--fg0) !important;
+  --color-accent-fg: var(--blue) !important;
+  --color-fg-muted: var(--fg1) !important;
+  --color-open-fg: var(--green) !important;
+  --color-header-logo: var(--fg0) !important;
+  --color-header-text: var(--blue) !important;
+  --color-codemirror-linenumber-text: var(--fg1) !important;
+  --color-btn-danger-text: var(--red) !important;
+
+  /* Other */
+  --color-primer-border-active: var(--yellow) !important;
+  --color-btn-danger-hover-border: var(--red) !important;
+  --color-danger-muted: var(--red) !important;
+
+  /* Syntax */
+  --color-prettylights-syntax-constant: var(--blue) !important;
+  --color-prettylights-syntax-entity-tag: var(--green) !important;
+  --color-prettylights-syntax-entity: var(--purple) !important;
+  --color-prettylights-syntax-keyword: var(--red) !important;
+  --color-prettylights-syntax-string: var(--aqua) !important;
+  --color-prettylights-syntax-comment: var(--fg1) !important;
+  --color-codemirror-syntax-constant: var(--blue) !important;
+  --color-codemirror-syntax-variable: var(--orange) !important;
+  --color-codemirror-syntax-keyword: var(--red) !important;
+  --color-codemirror-syntax-comment: var(--fg1) !important;
+  --color-codemirror-syntax-string: var(--blue) !important;
+}
+
+.feature-preview-indicator {
+  background-image: linear-gradient(var(--blue), var(--aqua)) !important;
+}
+dropdown-item:hover {
+  color: var(--bg2) !important;
+}
