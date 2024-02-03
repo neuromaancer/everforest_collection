@@ -1,5 +1,14 @@
 # Everforest Collection
 
+<!--toc:start-->
+
+- [Everforest Collection](#everforest-collection)
+  - [Motivation](#motivation)
+  - [Tools](#tools)
+  - [Contributing](#contributing)
+  - [License](#license)
+  <!--toc:end-->
+
 ## Motivation
 
 I really enjoy using the everforest theme, but it is not available for all the tools I use (obviously it is not that popular as [Catppuccin](https://github.com/catppuccin)), so I decided to make a collection of everforest themes for various tools.
