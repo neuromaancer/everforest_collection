@@ -1,0 +1,39 @@
+.theme-light.theme-light {
+  --bg-hue: 43;
+  --bg-sat: 57%;
+  --bg-val: 89%;
+
+  --color-accent: #8da101;
+  --color-accent-hsl: #8da101;
+  --interactive-accent: #3a94c5;
+
+  --alt-heading-color: #f85552;
+  --secondary-accent: #e69875;
+  --hover-accent: #f57d26;
+  --link-unresolved-color: #dfa000;
+  /* Text selection color for light theme */
+  ::selection {
+    background-color: #8da101; /* Example: Light theme selection color */
+    color: #ffffff; /* Text color on selection */
+  }
+}
+
+.theme-dark.theme-dark {
+  --bg-hue: 204;
+  --bg-sat: 14%;
+  --bg-val: 21%;
+
+  --color-accent: #a7c080;
+  --color-accent-hsl: #a7c080;
+  --interactive-accent: #7fbbb3;
+
+  --alt-heading-color: #e67e80;
+  --secondary-accent: #d699b6;
+  --hover-accent: #e69875;
+  --link-unresolved-color: #dbbc7f;
+  /* Text selection color for dark theme */
+  ::selection {
+    background-color: #a7c080; /* Example: Dark theme selection color */
+    color: #ffffff; /* Text color on selection */
+  }
+}
