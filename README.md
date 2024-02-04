@@ -32,6 +32,8 @@ My everforest theme collection for various tools. Most are everforest dark soft.
 8. Github: you can use [refined-github](https://github.com/refined-github/refined-github), and put the css in the `css` in the 'refined-github' folder to the Custom CSS option in refined-github.
 9. [bottom](https://github.com/ClementTsang/bottom): see my `bottom` folder.
 10. [Gtk](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme): Everforest colour palette for GTK.
+11. [broot](https://github.com/Canop/broot): see my `broot` folder.
+12. [bat](https://github.com/sharkdp/bat): see my `bat` folder.
 
 ## Contributing
 
