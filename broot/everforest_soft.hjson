@@ -1,0 +1,79 @@
+skin: {
+    default: gray(23) none / gray(20) none
+    tree: ansi(94) None / gray(3) None
+    parent: gray(18) None / gray(13) None
+    file: gray(20) None / gray(15) None
+    directory: "#a7c080 None Bold / #a7c080 None bold"  // Soft Green
+    exe: "#a7c080 None"  // Soft Green
+    link: "#7fbbb3 None"  // Soft Blue
+    pruning: gray(12) None Italic
+    perm__: gray(5) None
+    perm_r: "#a7c080 None"  // Soft Green
+    perm_w: "#e8a2af None"  // Soft Red
+    perm_x: "#7fbbb3 None"  // Soft Blue
+    owner: "#7fbbb3 None"  // Soft Blue
+    group: "#7fbbb3 None"  // Soft Blue
+    count: "#7fbbb3 gray(3)"  // Soft Blue
+    dates: "#7fbbb3 None"  // Soft Blue
+    sparse: "#d3c6aa None"  // Soft Cream
+    content_extract: "#a7c080 None"  // Soft Green
+    content_match: "#7fbbb3 None"  // Soft Blue
+    device_id_major: "#7fbbb3 None"  // Soft Blue
+    device_id_sep: "#d3c6aa None"  // Soft Cream
+    device_id_minor: "#7fbbb3 None"  // Soft Blue
+    git_branch: "#d3c6aa None"  // Soft Cream
+    git_insertions: "#a7c080 None"  // Soft Green
+    git_deletions: "#e8a2af None"  // Soft Red
+    git_status_current: gray(5) None
+    git_status_modified: "#a7c080 None"  // Soft Green
+    git_status_new: "#a7c080 None Bold"  // Soft Green
+    git_status_ignored: gray(17) None
+    git_status_conflicted: "#e8a2af None"  // Soft Red
+    git_status_other: "#e8a2af None"  // Soft Red
+    selected_line: None gray(5) / None gray(4)
+    char_match: "#d3c6aa None"  // Soft Cream
+    file_error: "#e64553 None"  // Soft Red
+    flag_label: gray(15) None
+    flag_value: "#d3c6aa None Bold"  // Soft Cream
+    input: "#cdd6f4 None / gray(15) gray(2)"  // Soft Text
+    status_error: gray(22) "#e64553"  // Soft Red
+    status_job: "#d3c6aa gray(5)"  // Soft Cream
+    status_normal: gray(20) gray(3) / gray(2) gray(2)
+    status_italic: "#d3c6aa gray(3) / gray(2) gray(2)"  // Soft Cream
+    status_bold: "#d3c6aa gray(3) Bold / gray(2) gray(2)"  // Soft Cream
+    status_code: "#d3c6aa gray(3) / gray(2) gray(2)"  // Soft Cream
+    status_ellipsis: gray(19) gray(1) / gray(2) gray(2)
+    purpose_normal: gray(20) gray(2)
+    purpose_italic: "#d3c6aa gray(2)"  // Soft Cream
+    purpose_bold: "#d3c6aa gray(2) Bold"  // Soft Cream
+    purpose_ellipsis: gray(20) gray(2)
+    scrollbar_track: gray(7) None / gray(4) None
+    scrollbar_thumb: gray(22) None / gray(14) None
+    help_paragraph: gray(20) None
+    help_bold: "#d3c6aa None Bold"  // Soft Cream
+    help_italic: "#d3c6aa None"  // Soft Cream
+    help_code: gray(21) gray(3)
+    help_headers: "#d3c6aa None"  // Soft Cream
+    help_table_border: gray(239) None
+    preview_title: gray(23) None / gray(21) None
+    preview: gray(20) gray(1) / gray(18) gray(2)
+    preview_line_number: gray(12) gray(3)
+    preview_match: None "#a7c080"  // Soft Green
+    hex_null: gray(11) None
+    hex_ascii_graphic: gray(18) None
+    hex_ascii_whitespace: "#d3c6aa None"  // Soft Cream
+    hex_ascii_other: "#d3c6aa None"  // Soft Cream
+    hex_non_ascii: "#e8a2af None"  // Soft Red
+    staging_area_title: gray(22) None / gray(20) None
+    mode_command_mark: gray(5) "#e8a2af Bold"  // Soft Red
+    good_to_bad_0: "#a7c080"  // Soft Green
+    good_to_bad_1: "#a7c080"  // Soft Green
+    good_to_bad_2: "#a7c080"  // Soft Green
+    good_to_bad_3: "#a7c080"  // Soft Green
+    good_to_bad_4: "#a7c080"  // Soft Green
+    good_to_bad_5: "#d3c6aa"  // Soft Cream
+    good_to_bad_6: "#d3c6aa"  // Soft Cream
+    good_to_bad_7: "#e8a2af"  // Soft Red
+    good_to_bad_8: "#e8a2af"  // Soft Red
+    good_to_bad_9: "#e8a2af"  // Soft Red
+}
