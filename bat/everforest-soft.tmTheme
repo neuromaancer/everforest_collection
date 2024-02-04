@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>name</key>
+    <string>Everforest Dark Soft</string>
+    <key>settings</key>
+    <array>
+      <dict>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#d3c6aa</string> <!-- Soft Cream -->
+          <key>background</key>
+          <string>#2b3339</string> <!-- Soft Dark Background -->
+          <key>caret</key>
+          <string>#d3c6aa</string> <!-- Soft Cream -->
+          <key>invisibles</key>
+          <string>#404c56</string> <!-- Soft Grey -->
+          <key>gutterForeground</key>
+          <string>#404c56</string> <!-- Soft Grey -->
+          <key>gutterForegroundHighlight</key>
+          <string>#a7c080</string> <!-- Soft Green -->
+          <key>lineHighlight</key>
+          <string>#323c41</string> <!-- Soft Line Highlight -->
+          <key>selection</key>
+          <string>#3a454d</string> <!-- Soft Selection Background -->
+          <key>selectionBorder</key>
+          <string>#2b3339</string> <!-- Soft Dark Background -->
+          <key>activeGuide</key>
+          <string>#a7c080</string> <!-- Soft Green -->
+          <key>findHighlightForeground</key>
+          <string>#2b3339</string> <!-- Soft Dark Background -->
+          <key>findHighlight</key>
+          <string>#d3c6aa</string> <!-- Soft Cream -->
+          <key>bracketsForeground</key>
+          <string>#d3c6aa</string> <!-- Soft Cream -->
+          <key>bracketContentsForeground</key>
+          <string>#d3c6aa</string> <!-- Soft Cream -->
+        </dict>
+      </dict>
+      <!-- Add the other settings blocks here, similar to the one above, changing the color values to match the Everforest dark soft theme -->
+      <!-- ... -->
+    </array>
+    <key>uuid</key>
+    <string>4d0379b5-ef82-467b-b8b8-365889420646</string>
+    <key>colorSpaceName</key>
+    <string>sRGB</string>
