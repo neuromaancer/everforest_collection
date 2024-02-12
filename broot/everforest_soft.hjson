@@ -36,7 +36,6 @@ skin: {
     flag_label: gray(15) None
     flag_value: "#d3c6aa None Bold"  // Soft Cream
     input: "#cdd6f4 None / gray(15) gray(2)"  // Soft Text
-    status_error: gray(22) "#e64553"  // Soft Red
     status_job: "#d3c6aa gray(5)"  // Soft Cream
     status_normal: gray(20) gray(3) / gray(2) gray(2)
     status_italic: "#d3c6aa gray(3) / gray(2) gray(2)"  // Soft Cream
@@ -54,18 +53,16 @@ skin: {
     help_italic: "#d3c6aa None"  // Soft Cream
     help_code: gray(21) gray(3)
     help_headers: "#d3c6aa None"  // Soft Cream
-    help_table_border: gray(239) None
+    help_table_border: gray(23) None
     preview_title: gray(23) None / gray(21) None
     preview: gray(20) gray(1) / gray(18) gray(2)
     preview_line_number: gray(12) gray(3)
-    preview_match: None "#a7c080"  // Soft Green
     hex_null: gray(11) None
     hex_ascii_graphic: gray(18) None
     hex_ascii_whitespace: "#d3c6aa None"  // Soft Cream
     hex_ascii_other: "#d3c6aa None"  // Soft Cream
     hex_non_ascii: "#e8a2af None"  // Soft Red
     staging_area_title: gray(22) None / gray(20) None
-    mode_command_mark: gray(5) "#e8a2af Bold"  // Soft Red
     good_to_bad_0: "#a7c080"  // Soft Green
     good_to_bad_1: "#a7c080"  // Soft Green
     good_to_bad_2: "#a7c080"  // Soft Green
