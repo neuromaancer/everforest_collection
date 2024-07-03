@@ -35,7 +35,8 @@ My everforest theme collection for various tools. Most are everforest dark soft.
 11. [broot](https://github.com/Canop/broot): see my `broot` folder.
 12. [bat](https://github.com/sharkdp/bat): see my `bat` folder.
 13. [Alacritty](https://github.com/alacritty/alacritty): please refer to [everforest-alacritty](https://gist.github.com/sainnhe/6432f83181c4520ea87b5211fed27950).
-14. [Starship](https://starship.rs/): see my `starship`.
+14. [Starship](https://starship.rs/): see my `starship` folder.
+15. [Windows Terminal](https://github.com/microsoft/terminal): see my `windows-terminal` folder.
 
 ## Contributing
 
