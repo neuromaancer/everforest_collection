@@ -38,6 +38,7 @@ Most are everforest dark soft.
 14. [Starship](https://starship.rs/): see the `starship` folder.
 15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
 16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
+17. [zed](zed.dev): please refer to [everforest-zed](https://github.com/ThomasAlban/everforest-zed).
 
 # Contributing
 
