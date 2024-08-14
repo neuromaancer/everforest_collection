@@ -11,11 +11,11 @@
 
 ## Motivation
 
-It is really nice using the everforest theme, but it is not available for all the tools I use (obviously it is not that popular as [Catppuccin](https://github.com/catppuccin)), so this collection of everforest themes is made for various tools.
+It is really nice using the everforest theme, but it is not available for all the tools we use (obviously it is not that popular as [Catppuccin](https://github.com/catppuccin)), so this collection of everforest themes is made for various tools.
 
 ## Tools
 
-My everforest theme collection for various tools. Most are everforest dark soft.
+Most are everforest dark soft.
 
 1. [Neovim](https://github.com/neovim/neovim): [everforest.nvim](https://github.com/neanias/everforest-nvim) and of course, the original [everforest](https://github.com/sainnhe/everforest).
 2. [Kitty](https://sw.kovidgoyal.net/kitty/): use `kitten theme` then select the `everforest` theme.
@@ -37,6 +37,7 @@ My everforest theme collection for various tools. Most are everforest dark soft.
 13. [Alacritty](https://github.com/alacritty/alacritty): please refer to [everforest-alacritty](https://gist.github.com/sainnhe/6432f83181c4520ea87b5211fed27950).
 14. [Starship](https://starship.rs/): see the `starship` folder.
 15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
+16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
 
 # Contributing
 
