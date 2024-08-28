@@ -39,9 +39,9 @@ Most are everforest dark soft.
 15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
 16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
 17. [zed](zed.dev): please refer to [everforest-zed](https://github.com/ThomasAlban/everforest-zed).
-18. [helix](https://github.com/helix-editor/helix): please refer to [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest).
+18. [helix](https://github.com/helix-editor/helix): please refer to [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
 19. [VSCode](https://code.visualstudio.com/): please refer to [vscode-everforest](https://github.com/sainnhe/everforest-vscode).
-20. [zellij](zellij.dev): please refer to [everforest-dark-zellij](https://github.com/n1yn/everforest-dark-zellij).
+20. [zellij](zellij.dev): see the `zellij` folder.
 
 # Contributing
 
