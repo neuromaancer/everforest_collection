@@ -108,7 +108,7 @@ separator_style = { fg = "#434c5e" } # Muted dark
 
 [help]
 on = { fg = "#e8a2af" }                     # Soft red
-exec = { fg = "#a7c080" }                   # Soft Green
+run = { fg = "#a7c080" }                   # Soft Green
 desc = { fg = "#d3c6aa" }                   # Soft beige
 hovered = { bg = "#434c5e", bold = true }   # Muted dark background
 footer = { fg = "#2c313a", bg = "#d3c6aa" } # Dark background, Soft beige foreground
