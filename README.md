@@ -34,7 +34,7 @@ Most are everforest dark soft.
 10. [Gtk](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme): Everforest colour palette for GTK.
 11. [broot](https://github.com/Canop/broot): see the `broot` folder.
 12. [bat](https://github.com/sharkdp/bat): see the `bat` folder.
-13. [Alacritty](https://github.com/alacritty/alacritty): please refer to [everforest-alacritty](https://gist.github.com/sainnhe/6432f83181c4520ea87b5211fed27950).
+13. [Alacritty](https://github.com/alacritty/alacritty): please refer to [alacritty-theme](https://github.com/alacritty/alacritty-theme). You can also find the everforest theme in the `alacritty` folder.
 14. [Starship](https://starship.rs/): see the `starship` folder.
 15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
 16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
