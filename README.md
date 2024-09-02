@@ -42,6 +42,7 @@ Most are everforest dark soft.
 18. [helix](https://github.com/helix-editor/helix): please refer to [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
 19. [VSCode](https://code.visualstudio.com/): please refer to [vscode-everforest](https://github.com/sainnhe/everforest-vscode).
 20. [zellij](zellij.dev): see the `zellij` folder.
+21. [SurfingKeys](https://github.com/brookhong/Surfingkeys): see the `SurfingKeys` folder.
 
 # Contributing
 
