@@ -1,0 +1,108 @@
+
+# -----------------------------------------------------------------------------
+# Everforest Theme for K9s
+# -----------------------------------------------------------------------------
+# Color Palette:
+# #232A2E bg_dim
+# #2D353B bg0
+# #343F44 bg1
+# #3D484D bg2
+# #475258 bg3
+# #4F585E bg4
+# #56635f bg5
+# #543A48 bg_visual
+# #514045 bg_red
+# #425047 bg_green
+# #3A515D bg_blue
+# #4D4C43 bg_yellow
+# #D3C6AA fg
+# #E67E80 red
+# #E69875 orange
+# #DBBC7F yellow
+# #A7C080 green
+# #83C092 aqua
+# #7FBBB3 blue
+# #D699B6 purple
+# #7A8478 grey0
+# #859289 grey1
+# #9DA9A0 grey2
+# #A7C080 statusline1
+# #D3C6AA statusline2
+# #E67E80 statusline3
+# -----------------------------------------------------------------------------
+
+k9s:
+  body:
+    fgColor: '#D3C6AA'
+    bgColor: default
+
+  prompt:
+    bgColor: default
+
+  info:
+    fgColor: '#A7C080'
+    sectionColor: '#D3C6AA'
+
+  dialog:
+    bgColor: '#1E2326'
+    labelFgColor: '#D3C6AA'
+    fieldFgColor: '#D3C6AA'
+
+  frame:
+    border:
+      fgColor: default
+      focusColor: default
+
+    menu:
+      fgColor: '#7FBBB3'
+      keyColor: '#E69875'
+      numKeyColor: '#A7C080'
+
+    crumbs:
+      fgColor: '#D3C6AA'
+      bgColor: default
+
+    status:
+      newColor: '#D3C6AA'
+      modifyColor: '#7FBBB3'
+      addColor: '#7FBBB3'
+      errorColor: '#E67E80'
+      highlightcolor: '#E69875'
+      killColor: '#4F5B58'
+      completedColor: '#859289'
+
+    title:
+      fgColor: '#A7C080'
+      bgColor: default
+      highlightColor: '#E69875'
+      counterColor: default
+      filterColor: '#859289'
+
+  views:
+    table:
+      fgColor: '#A7C080'
+      bgColor: default
+      cursorColor: '#A7C080'
+      header:
+        fgColor: '#A7C080'
+        bgColor: default
+        sorterColor: '#E69875'
+
+    yaml:
+      keyColor: '#A7C080'
+      colonColor: default
+      valueColor: '#E69875'
+
+    logs:
+      fgColor: '#D3C6AA'
+      bgColor: default
+      indicator:
+        bgColor: default
+        toggleOnColor: default
+        toggleOffColor: default
+
+    charts:
+      bgColor: default
+
+    xray:
+      bgColor: default
