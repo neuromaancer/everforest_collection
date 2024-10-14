@@ -43,6 +43,7 @@ Most are everforest dark soft.
 19. [VSCode](https://code.visualstudio.com/): please refer to [vscode-everforest](https://github.com/sainnhe/everforest-vscode).
 20. [zellij](zellij.dev): see the `zellij` folder.
 21. [SurfingKeys](https://github.com/brookhong/Surfingkeys): see the `SurfingKeys` folder.
+22. [k9s](https://k9scli.io/topics/skins/): see the `k9s` folder.
 
 # Contributing
 
