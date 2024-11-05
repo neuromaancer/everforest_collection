@@ -44,6 +44,7 @@ Most are everforest dark soft.
 20. [zellij](zellij.dev): see the `zellij` folder.
 21. [SurfingKeys](https://github.com/brookhong/Surfingkeys): see the `SurfingKeys` folder.
 22. [k9s](https://k9scli.io/topics/skins/): see the `k9s` folder.
+23. [iterm2](https://iterm2.com/): please refer to [iterm2-everforest](https://github.com/icewind/everforest.iterm2)
 
 # Contributing
 
