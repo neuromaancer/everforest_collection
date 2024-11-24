@@ -1,0 +1,236 @@
+/* Everforest Color System */
+:root {
+	color-scheme: light dark;
+
+	/* Base Colors - Light Theme */
+	--ef-fg: #5c6a72;
+	--ef-red: #f85552;
+	--ef-orange: #f57d26;
+	--ef-yellow: #dfa000;
+	--ef-green: #8da101;
+	--ef-aqua: #35a77c;
+	--ef-blue: #3a94c5;
+	--ef-purple: #df69ba;
+	--ef-gray-0: #a6b0a0;
+	--ef-gray-1: #939f91;
+	--ef-gray-2: #829181;
+	--ef-statusline-1: #93b259;
+	--ef-statusline-2: #708089;
+	--ef-statusline-3: #e66868;
+
+	/* Medium Background - Light Theme (Default) */
+	--ef-bg-dim: #efebd4;
+	--ef-bg-0: #fdf6e3;
+	--ef-bg-1: #f4f0d9;
+	--ef-bg-2: #efebd4;
+	--ef-bg-3: #e6e2cc;
+	--ef-bg-4: #e0dcc7;
+	--ef-bg-5: #bdc3af;
+	--ef-bg-visual: #eaedc8;
+	--ef-bg-red: #fbe3da;
+	--ef-bg-green: #f0f1d2;
+	--ef-bg-blue: #e9f0e9;
+	--ef-bg-yellow: #faedcd;
+}
+
+/* Dark Theme Colors */
+@media (prefers-color-scheme: dark) {
+	:root {
+		/* Base Colors - Dark Theme */
+		--ef-fg: #d3c6aa;
+		--ef-red: #e67e80;
+		--ef-orange: #e69875;
+		--ef-yellow: #dbbc7f;
+		--ef-green: #a7c080;
+		--ef-aqua: #83c092;
+		--ef-blue: #7fbbb3;
+		--ef-purple: #d699b6;
+		--ef-gray-0: #7a8478;
+		--ef-gray-1: #859289;
+		--ef-gray-2: #9da9a0;
+		--ef-statusline-1: #a7c080;
+		--ef-statusline-2: #d3c6aa;
+		--ef-statusline-3: #e67e80;
+
+		/* Medium Background - Dark Theme (Default) */
+		--ef-bg-dim: #232a2e;
+		--ef-bg-0: #2d353b;
+		--ef-bg-1: #343f44;
+		--ef-bg-2: #3d484d;
+		--ef-bg-3: #475258;
+		--ef-bg-4: #4f585e;
+		--ef-bg-5: #56635f;
+		--ef-bg-visual: #543a48;
+		--ef-bg-red: #514045;
+		--ef-bg-green: #425047;
+		--ef-bg-blue: #3a515d;
+		--ef-bg-yellow: #4d4c43;
+	}
+}
+
+/* Hard Background Variant */
+.ef-hard {
+	/* Light Theme */
+	--ef-bg-dim: #f2efdf;
+	--ef-bg-0: #fffbef;
+	--ef-bg-1: #f8f5e4;
+	--ef-bg-2: #f2efdf;
+	--ef-bg-3: #edeada;
+	--ef-bg-4: #e8e5d5;
+	--ef-bg-5: #bec5b2;
+	--ef-bg-visual: #f0f2d4;
+	--ef-bg-red: #ffe7de;
+	--ef-bg-green: #f3f5d9;
+	--ef-bg-blue: #ecf5ed;
+	--ef-bg-yellow: #fef2d5;
+}
+
+@media (prefers-color-scheme: dark) {
+	.ef-hard {
+		--ef-bg-dim: #1e2326;
+		--ef-bg-0: #272e33;
+		--ef-bg-1: #2e383c;
+		--ef-bg-2: #374145;
+		--ef-bg-3: #414b50;
+		--ef-bg-4: #495156;
+		--ef-bg-5: #4f5b58;
+		--ef-bg-visual: #4c3743;
+		--ef-bg-red: #493b40;
+		--ef-bg-green: #3c4841;
+		--ef-bg-blue: #384b55;
+		--ef-bg-yellow: #45443c;
+	}
+}
+
+/* Soft Background Variant */
+.ef-soft {
+	/* Light Theme */
+	--ef-bg-dim: #e5dfc5;
+	--ef-bg-0: #f3ead3;
+	--ef-bg-1: #eae4ca;
+	--ef-bg-2: #e5dfc5;
+	--ef-bg-3: #ddd8be;
+	--ef-bg-4: #d8d3ba;
+	--ef-bg-5: #b9c0ab;
+	--ef-bg-visual: #e1e4bd;
+	--ef-bg-red: #f4dbd0;
+	--ef-bg-green: #e5e6c5;
+	--ef-bg-blue: #e1e7dd;
+	--ef-bg-yellow: #f1e4c5;
+}
+
+@media (prefers-color-scheme: dark) {
+	.ef-soft {
+		--ef-bg-dim: #293136;
+		--ef-bg-0: #333c43;
+		--ef-bg-1: #3a464c;
+		--ef-bg-2: #434f55;
+		--ef-bg-3: #4d5960;
+		--ef-bg-4: #555f66;
+		--ef-bg-5: #5d6b66;
+		--ef-bg-visual: #5c3f4f;
+		--ef-bg-red: #59464c;
+		--ef-bg-green: #48584e;
+		--ef-bg-blue: #3f5865;
+		--ef-bg-yellow: #55544a;
+	}
+}
+
+/* Forced Theme Classes */
+.theme_light {
+	color-scheme: light;
+	/* Light theme variables */
+	--ef-fg: #5c6a72;
+	--ef-red: #f85552;
+	--ef-orange: #f57d26;
+	--ef-yellow: #dfa000;
+	--ef-green: #8da101;
+	--ef-aqua: #35a77c;
+	--ef-blue: #3a94c5;
+	--ef-purple: #df69ba;
+	--ef-gray-0: #a6b0a0;
+	--ef-gray-1: #939f91;
+	--ef-gray-2: #829181;
+	--ef-statusline-1: #93b259;
+	--ef-statusline-2: #708089;
+	--ef-statusline-3: #e66868;
+
+	/* Medium background by default */
+	--ef-bg-dim: #efebd4;
+	--ef-bg-0: #fdf6e3;
+	--ef-bg-1: #f4f0d9;
+	--ef-bg-2: #efebd4;
+	--ef-bg-3: #e6e2cc;
+	--ef-bg-4: #e0dcc7;
+	--ef-bg-5: #bdc3af;
+	--ef-bg-visual: #eaedc8;
+	--ef-bg-red: #fbe3da;
+	--ef-bg-green: #f0f1d2;
+	--ef-bg-blue: #e9f0e9;
+	--ef-bg-yellow: #faedcd;
+}
+
+.theme_dark {
+	color-scheme: dark;
+	/* Dark theme variables */
+	--ef-fg: #d3c6aa;
+	--ef-red: #e67e80;
+	--ef-orange: #e69875;
+	--ef-yellow: #dbbc7f;
+	--ef-green: #a7c080;
+	--ef-aqua: #83c092;
+	--ef-blue: #7fbbb3;
+	--ef-purple: #d699b6;
+	--ef-gray-0: #7a8478;
+	--ef-gray-1: #859289;
+	--ef-gray-2: #9da9a0;
+	--ef-statusline-1: #a7c080;
+	--ef-statusline-2: #d3c6aa;
+	--ef-statusline-3: #e67e80;
+
+	/* Medium background by default */
+	--ef-bg-dim: #232a2e;
+	--ef-bg-0: #2d353b;
+	--ef-bg-1: #343f44;
+	--ef-bg-2: #3d484d;
+	--ef-bg-3: #475258;
+	--ef-bg-4: #4f585e;
+	--ef-bg-5: #56635f;
+	--ef-bg-visual: #543a48;
+	--ef-bg-red: #514045;
+	--ef-bg-green: #425047;
+	--ef-bg-blue: #3a515d;
+	--ef-bg-yellow: #4d4c43;
+}
+
+/* Kagi x Everforest */
+:root {
+	--landing-bg: var(--ef-bg-0);
+	--app-frame-bg: var(--ef-bg-0);
+	--app-bg: var(--ef-bg-1);
+
+	--color-search-input: var(--ef-bg-1);
+	--color-search-input-border: var(--ef-bg-2);
+
+	--inline-widget-bg: var(--ef-bg-2);
+
+	--search-result-title: var(--ef-gray-2);
+	--search-result-title-hover: var(--ef-fg);
+	--result-item-title-border: currentColor;
+	--result-item-title-border_hover: currentColor;
+
+	--primary: var(--ef-gray-2);
+	--primary-visited: var(--ef-gray-0);
+	--primary-hover: var(--ef-fg);
+
+	--related-item-bg: var(--ef-bg-1);
+	--related-item-hover-bg: var(--ef-bg-2);
+}
+
+.search-form .search-input::placeholder {
+	color: var(--ef-gray-2) !important;
+}
+
+.search-form .search-input:focus::placeholder {
+	color: var(--ef-gray-0) !important;
+}
