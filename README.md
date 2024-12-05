@@ -1,59 +1,75 @@
-# Everforest Collection
+# 🌲 Everforest Collection
 
-<!--toc:start-->
+A comprehensive collection of Everforest themes for various tools and applications.
 
-- [Everforest Collection](#everforest-collection)
-  - [Motivation](#motivation)
-  - [Tools](#tools)
-  - [Contributing](#contributing)
-- [License](#license)
-  <!--toc:end-->
+## 🎯 Overview
 
-## Motivation
+Everforest is an elegant color scheme with comfortable colors. While not as popular as themes like **Catppuccin**, this collection aims to provide Everforest themes across different tools and applications, primarily focusing on the dark soft variant.
 
-It is really nice using the everforest theme, but it is not available for all the tools we use (obviously it is not that popular as [Catppuccin](https://github.com/catppuccin)), so this collection of everforest themes is made for various tools.
+## 🎨 Available Themes
 
-## Tools
+### 🖥️ Terminal Emulators
 
-Most are everforest dark soft.
+- **Alacritty**: Available via [alacritty-theme](https://github.com/alacritty/alacritty-theme) or in `alacritty` folder
+- **Kitty**: Available via `kitten theme`
+- **Wezterm**: Built-in theme, configurable in lua config
+- **iTerm2**: Available via [iterm2-everforest](https://github.com/icewind/everforest.iterm2)
+- **Windows Terminal**: See `windows-terminal` folder
 
-1. [Neovim](https://github.com/neovim/neovim): [everforest.nvim](https://github.com/neanias/everforest-nvim) and of course, the original [everforest](https://github.com/sainnhe/everforest).
-2. [Kitty](https://sw.kovidgoyal.net/kitty/): use `kitten theme` then select the `everforest` theme.
-3. [Wezterm](https://wezfurlong.org/wezterm/): use the `everforest` theme directly in the config lua file-> [everforest wezterm](https://wezfurlong.org/wezterm/colorschemes/e/index.html#everforest-dark-gogh).
-4. [siokek](https://github.com/ahrm/sioyek): see the `sioyek` folder.
-5. [yazi](https://github.com/sxyazi/yazi): see the `yazi` folder.
-6. [vimium](https://github.com/philc/vimium): see the vimuim folder. Put the `css` in to `CSS for Vimium UI`.
-7. [Obsidian](https://obsidian.md/): Actually, Multiple options:
-   1. There are 3 community themes for `everforest`:
-      - [obsidian-everforest](https://github.com/0xGlitchbyte/obsidian_everforest).
-      - [everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)
-      - [obsidian-minimal](https://github.com/kepano/obsidian-minimal): By default, minimal theme is not everforest, but you can chosse the everforest by using [obsidian-minimal-setting](https://github.com/kepano/obsidian-minimal-settings).
-   2. If you use [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus), which It is highly recommended for vimer, you can use the `everforest.css` in the `obsidian` folder.
-8. Github: you can use [refined-github](https://github.com/refined-github/refined-github), and put the css in the `css` in the 'refined-github' folder to the Custom CSS option in refined-github.
-9. [bottom](https://github.com/ClementTsang/bottom): see the `bottom` folder.
-10. [Gtk](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme): Everforest colour palette for GTK.
-11. [broot](https://github.com/Canop/broot): see the `broot` folder.
-12. [bat](https://github.com/sharkdp/bat): see the `bat` folder.
-13. [Alacritty](https://github.com/alacritty/alacritty): please refer to [alacritty-theme](https://github.com/alacritty/alacritty-theme). You can also find the everforest theme in the `alacritty` folder.
-14. [Starship](https://starship.rs/): see the `starship` folder.
-15. [Windows Terminal](https://github.com/microsoft/terminal): see the `windows-terminal` folder.
-16. tmux: please refer to [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest).
-17. [zed](zed.dev): please refer to [everforest-zed](https://github.com/ThomasAlban/everforest-zed).
-18. [helix](https://github.com/helix-editor/helix): please refer to [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
-19. [VSCode](https://code.visualstudio.com/): please refer to [vscode-everforest](https://github.com/sainnhe/everforest-vscode).
-20. [zellij](zellij.dev): see the `zellij` folder.
-21. [SurfingKeys](https://github.com/brookhong/Surfingkeys): see the `SurfingKeys` folder.
-22. [k9s](https://k9scli.io/topics/skins/): see the `k9s` folder.
-23. [iterm2](https://iterm2.com/): please refer to [iterm2-everforest](https://github.com/icewind/everforest.iterm2).
-24. [kagi](kagi.com): please refer to `kagi` folder.
+### ✏️ Text Editors
 
-# Contributing
+- **Neovim**: Available via [everforest.nvim](https://github.com/neanias/everforest-nvim) or [original everforest](https://github.com/sainnhe/everforest)
+- **VSCode**: Available via [vscode-everforest](https://github.com/sainnhe/everforest-vscode)
+- **Helix**: Available via [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
+- **Zed**: Available via [everforest-zed](https://github.com/ThomasAlban/everforest-zed)
 
-PR is welcome!
+### 📝 Note-Taking & Documentation
 
-If you have a theme for a tool that is not covered here, feel free to make a PR.
+- **Obsidian**: Multiple options available:
+  - [obsidian-everforest](https://github.com/0xGlitchbyte/obsidian_everforest)
+  - [everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)
+  - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) with [settings](https://github.com/kepano/obsidian-minimal-settings)
+  - Custom CSS for [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) in `obsidian` folder, UPDATE: this CSS is already integrated in [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) innately 🍻, you can now choose this theme by following steps: Style settings => shimmering-focus => Color & Shapes => Alternative color scheme => Everforest.
+- **Sioyek**: See `sioyek` folder
 
-## License
+### 🖌️ System & Desktop
 
-MIT.
+- **GTK**: Available via [Everforest-GTK-Theme](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)
+
+### 🛠️ CLI Tools
+
+- **bat**: See `bat` folder
+- **bottom**: See `bottom` folder
+- **broot**: See `broot` folder
+- **k9s**: See `k9s` folder
+- **Starship**: See `starship` folder
+- **tmux**: Available via [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest)
+- **yazi**: See `yazi` folder
+- **zellij**: See `zellij` folder
+
+### 🌐 Browser Extensions
+
+- **Vimium**: CSS available in `vimium` folder
+- **SurfingKeys**: See `SurfingKeys` folder
+- **Refined GitHub**: Custom CSS available in `refined-github` folder
+- **Kagi**: See `kagi` folder
+
+## 📥 Installation
+
+Each tool's folder contains specific installation instructions and necessary files. Please refer to the respective directories for detailed setup guides.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have created an Everforest theme for a tool not listed here, please feel free to submit a Pull Request.
+
+### 📋 Contribution Guidelines
+
+1. Create a new folder for your theme if it doesn't exist
+2. Include clear installation instructions
+3. Add your theme to the appropriate section in this README. You can create a new category if necessary
+4. Ensure your theme follows the Everforest color scheme
+
+## 📄 License
+
+This collection is released under the MIT License.
 
