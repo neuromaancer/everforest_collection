@@ -10,11 +10,11 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 ### 🖥️ Terminal Emulators
 
-- **Alacritty**: Available via [alacritty-theme](https://github.com/alacritty/alacritty-theme) or in `alacritty` folder
+- **Alacritty**: Available via [alacritty-theme](https://github.com/alacritty/alacritty-theme) or in [alacritty](./alacritty/) folder
 - **Kitty**: Available via `kitten theme`
 - **Wezterm**: Built-in theme, configurable in lua config
 - **iTerm2**: Available via [iterm2-everforest](https://github.com/icewind/everforest.iterm2)
-- **Windows Terminal**: See `windows-terminal` folder
+- **Windows Terminal**: See [windows-terminal](./windows-terminal/) folder
 
 ### ✏️ Text Editors
 
@@ -29,8 +29,8 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
   - [obsidian-everforest](https://github.com/0xGlitchbyte/obsidian_everforest)
   - [everforest-enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)
   - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) with [settings](https://github.com/kepano/obsidian-minimal-settings)
-  - Custom CSS for [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) in `obsidian` folder, UPDATE: this CSS is already integrated in [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) innately 🍻, you can now choose this theme by following steps: Style settings => shimmering-focus => Color & Shapes => Alternative color scheme => Everforest.
-- **Sioyek**: See `sioyek` folder
+  - Custom CSS for [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) in [obsidian](./obsidian/) folder, UPDATE: this CSS is already integrated in [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) innately 🍻, you can now choose this theme by following steps: Style settings => shimmering-focus => Color & Shapes => Alternative color scheme => Everforest.
+- **Sioyek**: See [sioyek](./sioyek/) folder
 
 ### 🖌️ System & Desktop
 
@@ -38,21 +38,21 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 ### 🛠️ CLI Tools
 
-- **bat**: See `bat` folder
-- **bottom**: See `bottom` folder
-- **broot**: See `broot` folder
-- **k9s**: See `k9s` folder
-- **Starship**: See `starship` folder
+- **bat**: See [bat](./bat/) folder
+- **bottom**: See [bottom](./bottom/) folder
+- **broot**: See [broot](./broot/) folder
+- **k9s**: See [k9s](,/k9s) folder
+- **Starship**: See [starship](./starship/) folder
 - **tmux**: Available via [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest)
-- **yazi**: See `yazi` folder
-- **zellij**: See `zellij` folder
+- **yazi**: See [yazi](./yazi/)  folder
+- **zellij**: See [zellij](./zellij/) folder
 
 ### 🌐 Browser Extensions
 
-- **Vimium**: CSS available in `vimium` folder
-- **SurfingKeys**: See `SurfingKeys` folder
-- **Refined GitHub**: Custom CSS available in `refined-github` folder
-- **Kagi**: See `kagi` folder
+- **Vimium**: CSS available in [vimium](./vimium/) folder
+- **SurfingKeys**: See [SurfingKeys](./SurfingKeys/) folder
+- **Refined GitHub**: Custom CSS available in [refined-github](./refined-github/) folder
+- **Kagi**: See [kagi](./kagi/) folder
 
 ## 📥 Installation
 
