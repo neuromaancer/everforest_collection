@@ -15,6 +15,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 - **Wezterm**: Built-in theme, configurable in lua config
 - **iTerm2**: Available via [iterm2-everforest](https://github.com/icewind/everforest.iterm2)
 - **Windows Terminal**: See [windows-terminal](./windows-terminal/) folder
+- **Warp**： Avaiable via [warp-theme](https://github.com/austintraver/warp-theme/tree/main)
 
 ### ✏️ Text Editors
 
