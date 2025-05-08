@@ -42,6 +42,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 - **bat**: See [bat](./bat/) folder
 - **bottom**: See [bottom](./bottom/) folder
 - **broot**: See [broot](./broot/) folder
+- **eza**: See [eza](./eza/) folder
 - **k9s**: See [k9s](,/k9s) folder
 - **Starship**: See [starship](./starship/) folder
 - **tmux**: Available via [tmux-everforest](https://github.com/TanglingTreats/tmux-everforest)
