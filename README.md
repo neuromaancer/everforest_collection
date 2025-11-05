@@ -32,6 +32,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
   - [obsidian-minimal](https://github.com/kepano/obsidian-minimal) with [settings](https://github.com/kepano/obsidian-minimal-settings)
   - Custom CSS for [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) in [obsidian](./obsidian/) folder, UPDATE: this CSS is already integrated in [shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) innately 🍻, you can now choose this theme by following steps: Style settings => shimmering-focus => Color & Shapes => Alternative color scheme => Everforest.
 - **Sioyek**: See [sioyek](./sioyek/) folder
+- **LogSeq**: Available via [logseq-everforest-theme](https://github.com/khoulihan/logseq-everforest-theme)
 
 ### 🖌️ System & Desktop
 
