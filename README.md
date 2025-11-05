@@ -23,6 +23,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 - **VSCode**: Available via [vscode-everforest](https://github.com/sainnhe/everforest-vscode)
 - **Helix**: Available via [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
 - **Zed**: Available via [everforest-zed](https://github.com/ThomasAlban/everforest-zed)
+- **Sublime**: Available via [everforest-sublime](https://github.com/avelican/everforest-sublime)
 
 ### 📝 Note-Taking & Documentation
 
