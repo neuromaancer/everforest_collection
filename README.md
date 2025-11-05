@@ -76,5 +76,4 @@ Contributions are welcome! If you have created an Everforest theme for a tool no
 
 ## 📄 License
 
-This collection is released under the MIT License.
-
+This collection is released under the [MIT License](./LICENSE).
