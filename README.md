@@ -40,6 +40,10 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 - **GTK**: Available via [Everforest-GTK-Theme](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)
 
+### 💬 Messenger Apps
+
+- **Telegram**: available via [telegram-everforest](https://github.com/Skartorion/telegram-everforest)
+
 ### 🛠️ CLI Tools
 
 - **bat**: See [bat](./bat/) folder
