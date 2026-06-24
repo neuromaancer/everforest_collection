@@ -20,6 +20,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 ### ✏️ Text Editors
 
+- **CotEditor**: Available via [everforest-coteditor](https://github.com/VasylRomanets/everforest-coteditor)
 - **Neovim**: Available via [everforest.nvim](https://github.com/neanias/everforest-nvim) or [original everforest](https://github.com/sainnhe/everforest)
 - **VSCode**: Available via [vscode-everforest](https://github.com/sainnhe/everforest-vscode)
 - **Helix**: Available via [everforest-helix](https://github.com/CptPotato/helix-themes/tree/main/palettes/everforest)
@@ -47,6 +48,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 ### 🛠️ CLI Tools
 
 - **bat**: See [bat](./bat/) folder
+- **bat (dark and light variants)**: Available via [everforest-bat](https://github.com/VasylRomanets/everforest-bat)
 - **bottom**: See [bottom](./bottom/) folder
 - **broot**: See [broot](./broot/) folder
 - **eza**: See [eza](./eza/) folder
