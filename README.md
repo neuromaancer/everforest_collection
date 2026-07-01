@@ -47,8 +47,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 ### 🛠️ CLI Tools
 
-- **bat**: See [bat](./bat/) folder
-- **bat (dark and light variants)**: Available via [everforest-bat](https://github.com/VasylRomanets/everforest-bat)
+- **bat**: See [bat](./bat/) folder or available via [everforest-bat](https://github.com/VasylRomanets/everforest-bat)
 - **bottom**: See [bottom](./bottom/) folder
 - **broot**: See [broot](./broot/) folder
 - **eza**: See [eza](./eza/) folder
