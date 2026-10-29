@@ -45,6 +45,10 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 - **Telegram**: available via [telegram-everforest](https://github.com/Skartorion/telegram-everforest)
 
+### 🤖 AI Apps
+
+- **DeepSeek Harness**: Available via [dsh-everforest](https://github.com/FormalistBlue/dsh-everforest)
+
 ### 🛠️ CLI Tools
 
 - **bat**: See [bat](./bat/) folder or available via [everforest-bat](https://github.com/VasylRomanets/everforest-bat)
