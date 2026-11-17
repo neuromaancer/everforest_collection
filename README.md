@@ -43,6 +43,7 @@ Everforest is an elegant color scheme with comfortable colors. While not as popu
 
 ### 💬 Messenger Apps
 
+- **Mattermost**: See [mattermost](./mattermost/) folder
 - **Telegram**: available via [telegram-everforest](https://github.com/Skartorion/telegram-everforest)
 
 ### ✉️ Mail Clients
